@@ -1,4 +1,4 @@
-#### To get number of nodes in cluster
+#### To get the number of nodes in cluster
 
 ```
 kubectl get nodes
