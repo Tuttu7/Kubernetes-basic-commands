@@ -28,7 +28,7 @@ ngnix   0/1     ErrImagePull   0          10s
   root@controlplane:~# kubectl describe pod newpods-spbdp
 ```
 
-#### To find which node the pode is sitauted :
+#### To find which node the pod is sitauted :
 
 ```
 kubectl describe pod newpods-k6bgs | grep -i node
