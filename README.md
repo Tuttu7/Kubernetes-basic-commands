@@ -52,6 +52,13 @@ root@controlplane:~# kubectl edit pod redis
 pod/redis edited
 ```
 
+#### To get all objects in kubernetis
+
+```
+kubectl get all
+```
+
+
                              
                              
 
